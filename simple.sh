@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "This is a very simple script for testing Jenkins - v8"
+echo "This is a very simple script for testing Jenkins - v7"
